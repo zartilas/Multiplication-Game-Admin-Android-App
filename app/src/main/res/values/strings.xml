@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Multiplication Game Admin App</string>
+
+    <!-- Text Views -->
+    <string name="txt_account_info">Account Info</string>
+    <string name="txt_already_have_an_account">Already have an account? <b>Sign In</b></string>
+    <string name="txt_edit_profile">Edit Profile</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_enter_email_address_to_send_reset_code">Enter email address to send reset code.</string>
+    <string name="txt_forgot_password">Forgot password</string>
+    <string name="txt_forgot_password_question">Forgot password?</string>
+    <string name="txt_full_name">Full Name</string>
+    <string name="txt_lets_get_started">Let\'s get started</string>
+    <string name="txt_must_sign_in_2">You must sign in to see your profile.</string>
+    <string name="txt_password_reset">Password Reset</string>
+    <string name="txt_password_reset_mail_sent">Email sent successfully to reset your password!</string>
+    <string name="txt_please_click_back_again_to_exit">Please click back again to exit.</string>
+    <string name="txt_please_wait">Please wait…</string>
+    <string name="txt_profile">Profile</string>
+    <string name="txt_sign_in">Sign In</string>
+    <string name="txt_sign_in_header_2">Enter your email and password to continue.</string>
+    <string name="txt_sign_up">Sign Up</string>
+    <string name="txt_update_profile">Update Profile</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="txt_edit_user_details">Edit User Details</string>
+    <string name="txt_users_list">Users List</string>
+    <string name="txt_equation_format">%1$d x %2$d</string>
+    <string name="txt_type_format">➜ Type: %1$s</string>
+
+    <!-- Snackbar -->
+    <string name="txt_error_empty_password">Please enter your password.</string>
+    <string name="txt_error_empty_email">Please enter your email.</string>
+    <string name="txt_error_empty_full_name">Name cannot be empty.</string>
+    <string name="txt_success_done">Done!</string>
+    <string name="txt_success_update_user">The user details have been successfully updated.</string>
+
+    <!-- Buttons -->
+    <string name="txt_tables">Users</string>
+    <string name="txt_dismiss">Dismiss</string>
+    <string name="button_send">Send</string>
+    <string name="button_dismiss">Dismiss</string>
+    <string name="button_try_again">Try Again</string>
+    <string name="button_sign_out">Sign Out</string>
+
+    <!-- Input Texts -->
+    <string name="input_txt_hint_user_full_name">Enter a full name</string>
+
+    <string name="input_txt_hint_dash">-</string>
+    <string name="input_txt_hint_email">Your email address</string>
+    <string name="input_txt_hint_password">Your password</string>
+    <string name="input_txt_hint_full_name">Your full name</string>
+    <string name="txt_completed">Completed!</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_clear">Clear</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_users">Users</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_admin_access">Admin Access</string>
+    <string name="button_logout">Logout</string>
+    <string name="txt_date_registered">Date Registered</string>
+    <string name="txt_access_denied">Access Denied!</string>
+    <string name="txt_access_denied_2">You must be an admin to continue.</string>
+    <string name="txt_no_logs">No Logs found!</string>
+    <string name="txt_no_logs_2">It seems like this user has not tracked performance 🤔</string>
+    <string name="txt_logs">User Logs</string>
+</resources>
